@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 </details>
+<p>Leaderboard link :<p/>
 https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=rahulbamnuya
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
-<img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
-[![An image of @rahulbamnuya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulbamnuya)](https://holopin.io/@rahulbamnuya)
+<p>Hactoberfest Badges :<p/>
+https://www.holopin.io/@rahulbamnuya#badges
