@@ -46,3 +46,4 @@
 https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=rahulbamnuya
 <p>Hactoberfest Badges :<p/>
 https://www.holopin.io/@rahulbamnuya#badges
+[![An image of @rahulbamnuya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulbamnuya#)](https://holopin.io/@rahulbamnuya#)
