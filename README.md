@@ -25,8 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulbamnuya&show_icons=true&locale=en" alt="rahulbamnuya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbamnuya&" alt="rahulbamnuya" /></p>
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
@@ -41,10 +40,9 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-</details>
-<p>Leaderboard link :<p/>
-https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=rahulbamnuya
+<p>Leaderboard link :<p/> https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=rahulbamnuya
  <br>
-Check out my [Hacktoberfest Badges on Holopin](https://www.holopin.io/@rahulbamnuya#).
+ <br>
+Check out my [Hacktoberfest Badges on Holopin] (https://www.holopin.io/@rahulbamnuya#).
 
 [![An image of @rahulbamnuya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rahulbamnuya#)](https://holopin.io/@rahulbamnuya#)
