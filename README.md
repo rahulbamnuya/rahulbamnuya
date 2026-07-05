@@ -69,8 +69,7 @@ My work spans:
 - ✅ QR Driver Dispatch
 - ✅ OSRM Routing
 
-**Repository:** https://github.com/rahulbamnuya
-
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-black?logo=github)](https://github.com/rahulbamnuya/Major_Project_CSE)
 ---
 
 ## 🤖 ProposalFlow AI
@@ -83,7 +82,8 @@ My work spans:
 - Automated PDF generation
 - Email delivery pipeline
 
-**Repository:** https://github.com/rahulbamnuya
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-black?logo=github)]([https://github.com/rahulbamnuya/Major_Project_CSE](https://github.com/rahulbamnuya/proposalflow-ai))
 
 ---
 
@@ -96,7 +96,9 @@ My work spans:
 - Semantic Search
 - Context Optimization
 
-**Repository:** https://github.com/rahulbamnuya
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-black?logo=github)]([https://github.com/rahulbamnuya/Major_Project_CSE](https://github.com/rahulbamnuya/contextflow-rag-engine))
+
+
 
 ---
 
@@ -110,7 +112,9 @@ My work spans:
 - Booking APIs
 - Admin Dashboard
 
-**Repository:** https://github.com/rahulbamnuya
+
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-black?logo=github)]([https://github.com/rahulbamnuya/Major_Project_CSE](https://github.com/rahulbamnuya/Hotel-Booking-Website-))
+
 
 ---
 # 🛠 Tech Stack
