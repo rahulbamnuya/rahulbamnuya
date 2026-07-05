@@ -125,7 +125,7 @@ ContextFlow is a production-grade, self-correcting Retrieval-Augmented Generatio
 
 [![GitHub Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/rahulbamnuya/contextflow-rag-engine)
 
----
+
 
 ---
 ## 🏨 DreamNest
@@ -149,9 +149,7 @@ DreamNest is a full-stack hotel booking platform that enables users to discover 
 
 [![GitHub Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/rahulbamnuya/Hotel-Booking-Website-)
 
----
 
----
 # 🛠 Tech Stack
 
 ### 💻 Programming Languages
@@ -164,37 +162,22 @@ DreamNest is a full-stack hotel booking platform that enables users to discover 
 - React.js • HTML5 • CSS3
 
 ### 🤖 AI / Generative AI
-- LangGraph • LangChain • Retrieval-Augmented Generation (RAG) • LLM Orchestration
-- OpenAI API • Hugging Face • PyTorch • LoRA / QLoRA • Prompt Engineering
-- Vector Databases (Pinecone) • AI Agents • Multimodal AI
+- LangGraph • LangChain • Agentic AI • LLM Orchestration • RAG • Prompt Engineering • OpenAI API • Hugging Face • PyTorch • LoRA/QLoRA • Pinecone
 
 ### 🗄️ Databases & Storage
 - PostgreSQL • MySQL • MongoDB • Redis • Pinecone
 
 ### ☁️ DevOps & Observability
-- Docker • Git • GitHub Actions • CI/CD
-- OpenTelemetry (OTEL) • Prometheus • Grafana • Loki
-- Linux • Postman
+- Docker • Git • GitHub Actions • CI/CD • OpenTelemetry (OTEL) • Prometheus • Grafana • Loki • Linux • Postman
 
 ### 🏗️ Software Engineering
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- System Design
-- Distributed Systems
-- Agile / Scrum
-- SDLC
-- Code Review
-- Unit Testing (pytest)
-- Debugging
-- Performance Optimization
-- Observability
+- OOP • Data Structures & Algorithms • System Design • Distributed Systems • Agile/Scrum • SDLC • Code Review • Unit Testing (pytest) • Debugging • Performance Optimization • Observability
 
 ### 💻 Operating Systems
 - Linux • Windows • macOS
 
 ### 🤝 AI Developer Tools
 - GitHub Copilot • OpenAI Codex
-
 # 🏆 Achievements
 
 - 400+ DSA Problems Solved
@@ -206,13 +189,9 @@ DreamNest is a full-stack hotel booking platform that enables users to discover 
 
 ---
 
-# 📚 Research
+# 📚 Research & Publications
 
-**Interpretable Satellite Image Analysis using Retrieval-Augmented Generation and Vision-Language Models**
-
-Accepted at **ICADCML 2026**.
-
----
+> **Bamaniya, R.**, *Interpretable Satellite Image Analysis using Retrieval-Augmented Generation and Vision-Language Models*, **Proceedings of the International Conference on Advances in Distributed Computing and Machine Learning (ICADCML 2026)**, Accepted for Publication, 2026.
 
 # 🌍 Open Source
 
