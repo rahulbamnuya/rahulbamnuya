@@ -58,63 +58,98 @@ My work spans:
 # 🚀 Featured Projects
 
 ## 🚚 RouteOptimizer
-**Python • FastAPI • MERN • OR-Tools • Gemini • OSRM**
 
-> Last-mile logistics optimization platform.
+**Tech Stack:** Python • FastAPI • Node.js • React • MongoDB • OR-Tools • OSRM API • Gemini 2.5 Flash
 
-### Highlights
-- ✅ Reduced routing latency by **40%**
-- ✅ Python optimization microservice
-- ✅ Gemini 2.5 Flash OCR
-- ✅ QR Driver Dispatch
-- ✅ OSRM Routing
+### 📖 About
 
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-black?logo=github)](https://github.com/rahulbamnuya/Major_Project_CSE)
+An AI-powered last-mile logistics optimization platform that automates shipment processing, optimizes delivery routes using OR-Tools, and enables real-time driver dispatch through QR-based workflows. Designed with a Python optimization microservice and a Node.js backend for scalable, high-performance route planning.
+
+### ✨ Key Highlights
+
+- 🚀 Built a Python-based route optimization microservice, reducing routing latency by **40%**
+- 🛣️ Implemented **CVRPTW** optimization using **Google OR-Tools**
+- 📍 Integrated **OSRM API** for realistic road-network routing
+- 🤖 Developed an AI-powered OCR pipeline using **Gemini 2.5 Flash** for automated shipment data extraction
+- 📦 Built a secure **QR-based driver dispatch** and delivery tracking workflow
+- 📊 Achieved **97.1% routing accuracy** with **20–30% reduction** in travel distance
+- 👨‍💻 Led a **5-member Agile team**, managing sprint planning, module ownership, and code reviews
+
+### 🔗 Repository
+
+[![GitHub Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/rahulbamnuya/Major_Project_CSE)
+
 ---
 
 ## 🤖 ProposalFlow AI
-**FastAPI • LangGraph • PostgreSQL • Redis • Pinecone**
 
-### Highlights
-- Multi-agent proposal generation
-- Requirement analysis
-- Pricing estimation
-- Automated PDF generation
-- Email delivery pipeline
+**Tech Stack:** Python • FastAPI • LangGraph • PostgreSQL • Redis • Pinecone • Docker • OpenAI API
 
+### 📖 About
 
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-black?logo=github)]([https://github.com/rahulbamnuya/Major_Project_CSE](https://github.com/rahulbamnuya/proposalflow-ai))
+ProposalFlow AI is a multi-agent proposal automation platform that transforms client requirements into structured business proposals, project scope, effort estimates, pricing, and client-ready deliverables. Built using an agentic AI architecture to automate the complete proposal generation workflow.
+
+### ✨ Key Highlights
+
+- 🤖 Built a **LangGraph-based multi-agent workflow** for requirement analysis, solution scoping, estimation, and proposal generation
+- 📄 Automated end-to-end proposal creation from client requirements to **professional PDF deliverables**
+- 💰 Generated structured project scope, timelines, pricing estimates, and implementation plans using LLMs
+- 📧 Integrated automated **PDF generation and email delivery** for client-ready proposals
+- 🗄️ Designed a scalable backend using **FastAPI**, **PostgreSQL**, **Redis**, and **Pinecone**
+- 🐳 Containerized the application with **Docker** for reliable and production-ready deployment
+
+### 🔗 Repository
+
+[![GitHub Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/rahulbamnuya/proposalflow-ai)
+
+---
+## 🛰️ ContextFlow
+
+**Tech Stack:** Python • FastAPI • LangGraph • LangChain • Qdrant • BM25 • MongoDB • Langfuse • Tavily • FlashRank
+
+### 📖 About
+
+ContextFlow is a production-grade, self-correcting Retrieval-Augmented Generation (RAG) engine designed for reliable enterprise AI applications. It combines hybrid retrieval, intelligent query routing, hallucination detection, and observability to deliver accurate, verifiable, and context-aware responses.
+
+### ✨ Key Highlights
+
+- 🤖 Built a **LangGraph-powered self-correcting RAG workflow** with reflection, query rewriting, and response verification
+- 🔍 Implemented **hybrid retrieval** using **BM25** and **Qdrant Vector Search** with **FlashRank reranking** for improved retrieval quality
+- 🌐 Integrated **Tavily Search** to automatically fetch external knowledge when local context is insufficient
+- 🛡️ Added **LLM-as-a-Judge hallucination detection**, context grading, prompt injection protection, and source citations for trustworthy responses
+- ⚡ Developed production-ready APIs using **FastAPI**, **JWT authentication**, **SlowAPI rate limiting**, and **MongoDB** for persistent chat history
+- 📊 Integrated **Langfuse observability** for end-to-end tracing, debugging, and evaluation of LLM workflows
+- 🔄 Supported multiple LLM providers with automatic failover using **OpenRouter**, **Groq**, and **Google Gemini**
+
+### 🔗 Repository
+
+[![GitHub Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/rahulbamnuya/contextflow-rag-engine)
 
 ---
 
-## 🛰 ContextFlow
-**Python • LangChain • RAG**
-
-### Highlights
-- Self-correcting Retrieval-Augmented Generation
-- Reflection & Verification
-- Semantic Search
-- Context Optimization
-
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-black?logo=github)]([https://github.com/rahulbamnuya/Major_Project_CSE](https://github.com/rahulbamnuya/contextflow-rag-engine))
-
-
-
 ---
-
 ## 🏨 DreamNest
-**MERN Stack**
 
-### Highlights
-- Hotel Booking Platform
-- Authentication
-- Room Management
-- Booking APIs
-- Admin Dashboard
+**Tech Stack:** Node.js • Express.js • MongoDB • JWT • Cloudinary • Twilio • REST APIs
 
+### 📖 About
 
-[![GitHub Repo](https://img.shields.io/badge/View-Repository-black?logo=github)]([https://github.com/rahulbamnuya/Major_Project_CSE](https://github.com/rahulbamnuya/Hotel-Booking-Website-))
+DreamNest is a full-stack hotel booking platform that enables users to discover hotels, manage reservations, and securely book accommodations. The platform features a scalable REST API architecture, secure authentication, media management, and real-time booking notifications.
 
+### ✨ Key Highlights
+
+- 🏨 Designed and developed modular **RESTful APIs** for hotel management, room management, reservations, and user authentication
+- 🔐 Implemented **JWT-based authentication** with secure session management, role-based access control (RBAC), and input validation middleware
+- 🖼️ Integrated **Cloudinary** for efficient hotel image storage and media management
+- 📱 Added **Twilio SMS notifications** to send instant booking confirmations and reservation updates
+- 🗄️ Built a scalable backend using **Node.js**, **Express.js**, and **MongoDB** following clean API architecture
+- ⚡ Developed complete booking workflows, user profiles, and an admin dashboard for hotel and reservation management
+
+### 🔗 Repository
+
+[![GitHub Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/rahulbamnuya/Hotel-Booking-Website-)
+
+---
 
 ---
 # 🛠 Tech Stack
