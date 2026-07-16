@@ -78,21 +78,15 @@ CGPA: 7.6/10
 
 ⭐ Always interested in building, learning, and contributing to AI systems that bridge research and real-world applications.
 ## 🛠 Tech Stack
-**💻 Programming Languages:** Python • Java • JavaScript • TypeScript • SQL
+- 💻 Programming Languages:** Python • Java • JavaScript • TypeScript • SQL
+- ⚙️ Backend Engineering:** FastAPI • Node.js • Express.js • REST APIs • Microservices • API Design • Authentication • WebSockets
+- 🎨 Frontend:** React.js • HTML5 • CSS3
+- 🤖 AI / Generative AI:** LangGraph • LangChain • Agentic AI • LLM Orchestration • RAG • Prompt Engineering • OpenAI API • Hugging Face • PyTorch • LoRA/QLoRA • Pinecone
+- 🗄️ Databases & Storage:** PostgreSQL • MySQL • MongoDB • Redis • Pinecone
+- ☁️ DevOps & Observability:** Docker • Git • GitHub Actions • CI/CD • OpenTelemetry (OTEL) • Prometheus • Grafana • Loki • Linux • Postman
+- 🏗️ Software Engineering:** OOP • Data Structures & Algorithms • System Design • Distributed Systems • Agile/Scrum • SDLC • Code Review • Unit Testing (pytest) • Debugging • Performance Optimization • Observability
 
-**⚙️ Backend Engineering:** FastAPI • Node.js • Express.js • REST APIs • Microservices • API Design • Authentication • WebSockets
-
-**🎨 Frontend:** React.js • HTML5 • CSS3
-
-**🤖 AI / Generative AI:** LangGraph • LangChain • Agentic AI • LLM Orchestration • RAG • Prompt Engineering • OpenAI API • Hugging Face • PyTorch • LoRA/QLoRA • Pinecone
-
-**🗄️ Databases & Storage:** PostgreSQL • MySQL • MongoDB • Redis • Pinecone
-
-**☁️ DevOps & Observability:** Docker • Git • GitHub Actions • CI/CD • OpenTelemetry (OTEL) • Prometheus • Grafana • Loki • Linux • Postman
-
-**🏗️ Software Engineering:** OOP • Data Structures & Algorithms • System Design • Distributed Systems • Agile/Scrum • SDLC • Code Review • Unit Testing (pytest) • Debugging • Performance Optimization • Observability
-
-**💻 Operating Systems:** Linux • Windows • macOS
+- 💻 Operating Systems:** Linux • Windows • macOS
 
 
 ## 🏆 Achievements
