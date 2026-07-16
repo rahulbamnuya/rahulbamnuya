@@ -1,61 +1,113 @@
 # Hi 👋, I'm Rahul Bamaniya
 
-### Software Development Engineer • Backend Engineer • Generative AI Engineer
+### AI Software Engineer • Backend Engineer • Generative AI Engineer
 
-I'm a final-year **Computer Science Engineering** student at **SGSITS Indore** passionate about building scalable backend systems, distributed microservices, and production-ready AI applications. I enjoy solving complex engineering problems by combining software engineering principles with modern AI technologies.
+I'm a final-year **Computer Engineering student (2026 Batch) at Shri G.S. Institute of Technology & Science (SGSITS), Indore** and a **Software Engineer Intern (Backend / AI Systems) at Zangoh**, where I build production-grade backend services, agentic AI workflows, and LLM-powered applications.
 
-| 🎓 **Education** | B.Tech Computer Science Engineering, SGSITS Indore (2026) |
-|------------------|------------------------------------------------------------|
-| 💼 **Experience** | GenAI Software Engineer Intern, **Zangoh** *(Jan 2026 – Jul 2026)* |
-| 🔬 **Research** | AI Research Intern, **NIT Bhopal** *(Jun 2025 – Jul 2025)* |
-| 🚀 **Specialization** | Backend Engineering • Distributed Systems • Agentic AI • RAG • AI Infrastructure |
-| 🎯 **Open To** | Software Development Engineer • Backend Engineer • Applied AI Engineer |
+My work focuses on the intersection of **Software Engineering and Generative AI**, including scalable backend systems, Retrieval-Augmented Generation (RAG), multi-agent AI workflows, document intelligence, semantic search, and production-ready AI infrastructure.
 
----
+Alongside engineering, I actively explore AI research and have co-authored a research paper accepted at **ICADCML 2026** on *Satellite Image Analysis using RAG & Vision-Language Models*, where I developed a multimodal RAG framework integrating Vision-Language Models and LLMs for satellite image understanding.
 
-# 👨‍💻 About Me
-
-I specialize in **Backend Engineering**, **Distributed Systems**, and **Generative AI**, with hands-on experience building production-ready applications using Python, FastAPI, Node.js, and modern AI frameworks.
-
-My work spans:
-
-- ⚙️ Designing scalable REST APIs and backend services
-- 🏗️ Building distributed microservices and cloud-native applications
-- 🤖 Developing Agentic AI systems with LangGraph and LangChain
-- 🔍 Engineering Retrieval-Augmented Generation (RAG) pipelines
-- 📊 Implementing production observability using OpenTelemetry, Prometheus, Grafana, and Loki
-- 🐳 Automating deployments with Docker and GitHub Actions CI/CD
-- 🧪 Writing reliable, maintainable, and well-tested software
+I am passionate about building reliable AI systems that solve real-world problems and am looking for opportunities as an **AI Software Engineer, Backend Engineer, or Applied AI Engineer**, where I can contribute to impactful AI products while continuously learning from experienced engineering teams.
 
 ---
 
-# 🚀 Current Focus
+## 🎓 Education
 
-- ⚡ Building scalable backend systems with **FastAPI**, **Node.js**, and **PostgreSQL**
-- 🤖 Developing production-grade **Agentic AI** applications using **LangGraph**
-- 🔍 Designing **Retrieval-Augmented Generation (RAG)** pipelines for enterprise AI
-- ☁️ Building **Microservices** and distributed backend architectures
-- 📊 Implementing **OpenTelemetry**, **Prometheus**, **Grafana**, and **Loki** for observability
-- 🐳 Improving developer workflows with **Docker**, **GitHub Actions**, and **CI/CD**
-
-# 💼 Professional Experience
-
-## GenAI Software Engineer Intern — Zangoh
-
-- Built LangGraph-based multi-agent media generation workflows.
-- Developed multilingual AI subtitle generation pipelines using Soniox ASR & FFmpeg.
-- Reduced document preprocessing latency by **98% (3s → 24ms)** using Kornia & PyTorch.
-- Built production observability using FastAPI, OpenTelemetry, Prometheus, Grafana, Loki and GitHub Actions.
-
-## AI Research Intern — NIT Bhopal
-
-- Fine-tuned BLIP-2 using LoRA/QLoRA.
-- Built CLIP + LangChain Retrieval-Augmented Generation pipeline.
-- Published research on multimodal Vision-Language Models.
+**Shri G.S. Institute of Technology & Science (SGSITS), Indore**  
+**B.Tech in Computer Engineering | 2022 - 2026**  
+CGPA: 7.6/10
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Professional Experience
+
+**Software Engineer Intern (Backend / AI Systems) Jan 2026 – Jul 2026 | Indore, India**  
+**Zangoh (Newzera Tech Labs Pvt. Ltd.)**  
+
+
+- Engineered **LLM-powered backend systems** using **FastAPI** and **Python** for AI-driven document processing, workflow automation, and scalable REST API development.
+- Built **LangGraph-based agentic AI workflows** by integrating specialized AI agents, backend services, and external tools to automate complex multi-step business processes.
+- Architected a reusable **context memory service** with REST APIs for embedding-based storage and semantic retrieval of user preferences, session context, and application knowledge.
+- Developed secure production APIs with **JWT/OAuth2**, asynchronous processing, **Redis** caching, and **Docker** deployment.
+- Improved reliability through **pytest** automation, peer code reviews, **OpenAPI/Swagger** documentation, and **GitHub Actions CI/CD** in an Agile environment.
+
+---
+
+## 🔬 Research Experience
+
+**AI/ML Research Intern**  
+**Department of Computer Science & Engineering, NIT Bhopal Jun 2025 – Jul 2025 | Bhopal, India**  
+
+
+- Fine-tuned the **BLIP-2 Vision-Language Model** on satellite imagery using **LoRA/QLoRA** for domain-specific image caption generation, improving multimodal caption quality by **15%**.
+- Designed a multimodal **RAG pipeline** using **CLIP embeddings** for semantic image-caption retrieval and integrated **Mistral** for grounded visual reasoning.
+- Worked on **Vision-Language Models** and multimodal AI systems, contributing to research accepted at the **International Conference on Advances in Distributed Computing and Machine Learning (ICADCML 2026)**.
+---
+
+## 📚 Research & Publications
+
+> **Bamaniya, R.**, *Interpretable Satellite Image Analysis using Retrieval-Augmented Generation and Vision-Language Models*, **Proceedings of the International Conference on Advances in Distributed Computing and Machine Learning (ICADCML 2026)**, Accepted for Publication, 2026.
+
+---
+
+## 💡 Areas of Interest
+
+- 🤖 Generative AI & Large Language Models (LLMs)
+- 🧠 Agentic AI & Multi-Agent Systems
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 📄 AI-Powered Document Intelligence
+- 👁️ Vision-Language Models (VLMs) & Multimodal AI
+- 🔎 Semantic Search & Vector Databases
+- ⚙️ AI Backend Engineering with FastAPI
+- 🏗️ Distributed Systems & Microservices
+- ☁️ Scalable AI Infrastructure
+- 🧪 AI Evaluation & Reliable LLM Systems
+
+
+---
+
+## 🚀 Open To
+
+- AI Software Engineer Roles
+- Backend Engineer Roles
+- Applied AI Engineer Roles
+- Generative AI Engineering Opportunities
+
+---
+
+⭐ Always interested in building, learning, and contributing to AI systems that bridge research and real-world applications.
+## 🛠 Tech Stack
+**💻 Programming Languages:** Python • Java • JavaScript • TypeScript • SQL
+
+**⚙️ Backend Engineering:** FastAPI • Node.js • Express.js • REST APIs • Microservices • API Design • Authentication • WebSockets
+
+**🎨 Frontend:** React.js • HTML5 • CSS3
+
+**🤖 AI / Generative AI:** LangGraph • LangChain • Agentic AI • LLM Orchestration • RAG • Prompt Engineering • OpenAI API • Hugging Face • PyTorch • LoRA/QLoRA • Pinecone
+
+**🗄️ Databases & Storage:** PostgreSQL • MySQL • MongoDB • Redis • Pinecone
+
+**☁️ DevOps & Observability:** Docker • Git • GitHub Actions • CI/CD • OpenTelemetry (OTEL) • Prometheus • Grafana • Loki • Linux • Postman
+
+**🏗️ Software Engineering:** OOP • Data Structures & Algorithms • System Design • Distributed Systems • Agile/Scrum • SDLC • Code Review • Unit Testing (pytest) • Debugging • Performance Optimization • Observability
+
+**💻 Operating Systems:** Linux • Windows • macOS
+
+
+## 🏆 Achievements
+
+- 400+ DSA Problems Solved
+- Top 1.4% GSSoC Contributor
+- 20+ Hacktoberfest Pull Requests
+- Oracle Cloud AI Foundations Associate
+- NPTEL Discipline Star
+- Published Researcher (ICADCML 2026)
+
+---
+
+
+## 🚀 Featured Projects
 
 ## 🚚 RouteOptimizer
 
@@ -150,50 +202,8 @@ DreamNest is a full-stack hotel booking platform that enables users to discover 
 [![GitHub Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/rahulbamnuya/Hotel-Booking-Website-)
 
 
-# 🛠 Tech Stack
 
-### 💻 Programming Languages
-- Python • Java • JavaScript • TypeScript • SQL
-
-### ⚙️ Backend Engineering
-- FastAPI • Node.js • Express.js • REST APIs • Microservices • API Design • Authentication • WebSockets
-
-### 🎨 Frontend
-- React.js • HTML5 • CSS3
-
-### 🤖 AI / Generative AI
-- LangGraph • LangChain • Agentic AI • LLM Orchestration • RAG • Prompt Engineering • OpenAI API • Hugging Face • PyTorch • LoRA/QLoRA • Pinecone
-
-### 🗄️ Databases & Storage
-- PostgreSQL • MySQL • MongoDB • Redis • Pinecone
-
-### ☁️ DevOps & Observability
-- Docker • Git • GitHub Actions • CI/CD • OpenTelemetry (OTEL) • Prometheus • Grafana • Loki • Linux • Postman
-
-### 🏗️ Software Engineering
-- OOP • Data Structures & Algorithms • System Design • Distributed Systems • Agile/Scrum • SDLC • Code Review • Unit Testing (pytest) • Debugging • Performance Optimization • Observability
-
-### 💻 Operating Systems
-- Linux • Windows • macOS
-
-### 🤝 AI Developer Tools
-- GitHub Copilot • OpenAI Codex
-# 🏆 Achievements
-
-- 400+ DSA Problems Solved
-- Top 1.4% GSSoC Contributor
-- 20+ Hacktoberfest Pull Requests
-- Oracle Cloud AI Foundations Associate
-- NPTEL Discipline Star
-- Published Researcher (ICADCML 2026)
-
----
-
-# 📚 Research & Publications
-
-> **Bamaniya, R.**, *Interpretable Satellite Image Analysis using Retrieval-Augmented Generation and Vision-Language Models*, **Proceedings of the International Conference on Advances in Distributed Computing and Machine Learning (ICADCML 2026)**, Accepted for Publication, 2026.
-
-# 🌍 Open Source
+## 🌍 Open Source
 
 - Top **1.4%** GirlScript Summer of Code Contributor
 - **20+** Hacktoberfest Pull Requests
@@ -209,7 +219,7 @@ DreamNest is a full-stack hotel booking platform that enables users to discover 
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbamnuya&show_icons=true&theme=tokyonight)
 
@@ -219,7 +229,7 @@ DreamNest is a full-stack hotel booking platform that enables users to discover 
 
 ---
 
-# 📫 Connect
+## 📫 Connect
 
 - LinkedIn: https://linkedin.com/in/rahul-bamaniya-1375772a6
 - GitHub: https://github.com/rahulbamnuya
